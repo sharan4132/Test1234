@@ -2,4 +2,3 @@ abcdef
 abc
 def
 ghi
-c1
